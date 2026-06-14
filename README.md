@@ -1,4 +1,4 @@
-# Help me by checking out more of my script [Click here](https://kane-shop.tebex.io/category/2596522)
+# Help me by checking out more of my script [Click here](https://kane-shop.tebex.io)
 # QBCore Progressbar inspired by NoPixel 4.0.
 
 ![Screenshot 2024-01-06 175641](https://github.com/rohKane/progressbar/assets/47999933/93ffa56f-215e-4138-a667-ae3be2de6aab)
